@@ -13,6 +13,7 @@ This repository is the long-term digital brain.
   - [[Knowledge/Yinghao - High-Leverage Life Career and Automation System|Yinghao - High-Leverage Life, Career and Automation System]]
   - [[Knowledge/Yinghao - Better Life Operating System|Yinghao - Better Life Operating System]]
   - [[Knowledge/Yinghao - 90-Day English and AI Learning System|Yinghao - 90-Day English and AI Learning System]]
+  - [[Knowledge/Yinghao - Suzhou Danyang Nanjing Cycling Trip|Yinghao - Suzhou → Danyang → Nanjing Cycling Trip]]
 - Daily
 - Suppliers
 - Resources
