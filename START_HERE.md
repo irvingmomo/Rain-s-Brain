@@ -14,6 +14,7 @@ This repository is the long-term digital brain.
   - [[Knowledge/Yinghao - Better Life Operating System|Yinghao - Better Life Operating System]]
   - [[Knowledge/Yinghao - 90-Day English and AI Learning System|Yinghao - 90-Day English and AI Learning System]]
   - [[Knowledge/Yinghao - Suzhou Danyang Nanjing Cycling Trip|Yinghao - Suzhou → Danyang → Nanjing Cycling Trip]]
+  - [[Knowledge/Yinghao - Travel Insurance China and Canada 2026|Yinghao - Travel Insurance China and Canada 2026]]
 - Daily
 - Suppliers
 - Resources
