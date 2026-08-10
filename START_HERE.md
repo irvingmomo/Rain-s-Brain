@@ -8,6 +8,7 @@ This repository is the long-term digital brain.
 - Projects
 - Areas
 - Knowledge
+  - [[Knowledge/Yinghao - Entrepreneurial Thinking|Yinghao - Entrepreneurial Thinking]]
 - Daily
 - Suppliers
 - Resources
