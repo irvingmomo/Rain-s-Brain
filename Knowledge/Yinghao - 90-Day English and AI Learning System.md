@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 0.4 seconds
-Output:
 # Yinghao — English Learning System
 
 > 目标：让英语直接服务于旅行、日常交流和供应链工作。原则：先输出，再纠错；学习短语块，不孤立背单词；每周用真实任务检验。
@@ -244,4 +241,3 @@ Output:
 ---
 
 更新日期：2026-08-12
-
