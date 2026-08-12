@@ -16,6 +16,7 @@ This repository is the long-term digital brain.
   - [[Knowledge/Yinghao - Suzhou Danyang Nanjing Cycling Trip|Yinghao - Suzhou → Danyang → Nanjing Cycling Trip]]
   - [[Knowledge/Yinghao - Travel Insurance China and Canada 2026|Yinghao - Travel Insurance China and Canada 2026]]
   - [[Knowledge/Yinghao - Toronto Sinology and Chinese Antiquities Pilgrimage|Yinghao - 多伦多海外汉学与中国近现代文物史朝圣路线]]
+  - [[Knowledge/Yinghao - Toronto 2026 Transport UofT AI and ROM Final Plan|Yinghao - Toronto 2026 交通、多大 AI 与 ROM 最终方案]]
 - Daily
 - Suppliers
 - Resources
