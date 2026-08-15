@@ -1,3 +1,9 @@
+---
+title: "The Australian Advantage: A Strategic Medical School Pathway"
+tags: [教育规划, 医学院]
+updated: 2026-04-09
+---
+
 # The Australian Advantage: A Strategic Medical School Pathway
 
 从官方的录取数据来看，\*\*Irving 在澳洲考取医学院的几率，是他在加拿大考取医学院的 3 到 10 倍以上。\*\* 

@@ -1,0 +1,18 @@
+# Local Obsidian UI state and caches
+.obsidian/workspace*.json
+.obsidian/graph.json
+.obsidian/cache/
+.obsidian/plugins/
+
+# Local AI/tool configuration
+.claude/
+.claudian/
+.gstack/
+CLAUDE.md
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.log
